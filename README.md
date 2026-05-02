@@ -1,55 +1,43 @@
-**## Hi there 👋
+# Hi 👋, I'm Vaishnavi Javalge
 
-<!# Hi 👋, I'm Vaishnavi Javalge
-
-### Aspiring Software Developer | Student
+### 💻 Aspiring Software Developer | Student
 
 ---
 
-🌍 I'm based in Kolhapur  
-✉️ You can contact me at: **javalgevaishnavi@gmail.com**  
+🌍 Based in **Kolhapur, India**  
+✉️ Email: **javalgevaishnavi@gmail.com**  
 🧠 Currently learning **Data Structures & Algorithms (DSA)** and **C++**
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student passionate about programming  
-- 💻 Focused on building strong problem-solving skills  
-- 📈 Preparing for internships and real-world projects  
+- 🎓 Passionate student exploring software development  
+- 🧩 Strong interest in problem-solving and DSA  
+- 📈 Actively preparing for internships  
 
 ---
 
 ## 🛠️ Skills
 - **Languages:** C, C++  
 - **Tools:** Git, VS Code  
-- **Core Concepts:** Data Structures & Algorithms  
+- **Concepts:** Data Structures & Algorithms  
 
 ---
 
-## 📂 Projects
-*(Add your projects here as you build them)*  
-- 🔹 Project 1 – Description  
-- 🔹 Project 2 – Description  
+## 🌐 Connect With Me
+- 💻 GitHub: https://github.com/javalgevaishnavi-code  
+- 🔗 LinkedIn: *(Add your correct profile link here — no spaces!)*  
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: javalgevaishnavi@gmail.com  
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javalgevaishnavi-code&theme=dark&hide_border=true)
 
 ---
 
-⭐ *“Consistent learning and practice lead to success.”*--
-**javalgevaishnavi-code/javalgevaishnavi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Top Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javalgevaishnavi-code&repo=javalgevaishnavi-code&theme=dark)](https://github.com/javalgevaishnavi-code/javalgevaishnavi-code)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**
+⭐ *“Consistency beats intensity.”*
